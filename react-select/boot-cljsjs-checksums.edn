@@ -1,4 +1,4 @@
-{"cljsjs/development/react-select.inc.js"
- "0E8B8EF65D1488469E71A7045720B351",
- "cljsjs/development/react-select.min.inc.js"
- "E5A2C88C0A48DB9807039D92FCFD911F"}
+{"cljsjs/react-select/development/react-select.inc.js"
+ "9D3D6A070EB5DF64B43A333FF980CB0F",
+ "cljsjs/react-select/production/react-select.min.inc.js"
+ "100E2CBF571ABA6B730CAAAD89659D86"}

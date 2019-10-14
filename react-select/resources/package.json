@@ -1,0 +1,17 @@
+{
+  "name": "@cljsjs/react-select-bundle",
+  "private": true,
+  "scripts": {
+    "build:dev": "webpack --mode development",
+    "build:prod": "webpack --mode production --output-filename react-select.min.inc.js"
+  },
+  "dependencies": {
+    "react-select": "3.0.8"
+  },
+  "devDependencies": {
+    "webpack": "4.39.3",
+    "webpack-command": "0.5.0",
+    "react": "*",
+    "react-dom": "*"
+  }
+}
